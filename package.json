@@ -1,0 +1,26 @@
+{
+  "name": "ease-axios",
+  "version": "1.0.0",
+  "description": "A lightweight, user-friendly wrapper for the Axios HTTP client, simplifying network requests and reducing boilerplate code in JavaScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "request",
+    "axios",
+    "easy",
+    "ease"
+  ],
+  "author": "CYF <caoyongfeng0214@gmail.com>",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/caoyongfeng0214/ease-axios",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caoyongfeng0214/ease-axios.git"
+  },
+  "dependencies": {
+  }
+}
